@@ -1,0 +1,8 @@
+# Merge into ~/.openclaw/workspace/TOOLS.md (or create if missing)
+
+### Site pulse
+
+- **URL to check** (must match `.site-pulse-url`): `https://your-site.com/`
+- **One-line config file:** `~/.openclaw/workspace/.site-pulse-url` (copy from `.site-pulse-url.example` in this repo)
+
+Add any other notes for your environment (SSH hosts, API bases, etc.).
